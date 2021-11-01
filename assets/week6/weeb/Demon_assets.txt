@@ -1,0 +1,27 @@
+<?txt version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="Demon_assets.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="Down0000" x="0" y="0" width="186" height="226"/>
+	<SubTexture name="Down0001" x="186" y="0" width="186" height="226"/>
+	<SubTexture name="Down0002" x="372" y="0" width="186" height="226"/>
+	<SubTexture name="Down0003" x="558" y="0" width="186" height="226"/>
+	<SubTexture name="Idle0000" x="744" y="0" width="227" height="369"/>
+	<SubTexture name="Idle0001" x="0" y="369" width="227" height="369"/>
+	<SubTexture name="Idle0002" x="227" y="369" width="227" height="369"/>
+	<SubTexture name="Idle0003" x="454" y="369" width="227" height="369"/>
+	<SubTexture name="Left0000" x="681" y="369" width="169" height="391"/>
+	<SubTexture name="Left0001" x="850" y="369" width="169" height="391"/>
+	<SubTexture name="Left0002" x="0" y="760" width="169" height="391"/>
+	<SubTexture name="Left0003" x="169" y="760" width="169" height="391"/>
+	<SubTexture name="Left0004" x="338" y="760" width="169" height="391"/>
+	<SubTexture name="Up0000" x="507" y="760" width="152" height="359"/>
+	<SubTexture name="Up0001" x="659" y="760" width="152" height="359"/>
+	<SubTexture name="Up0002" x="811" y="760" width="152" height="359"/>
+	<SubTexture name="Up0003" x="0" y="1151" width="152" height="359"/>
+	<SubTexture name="Up0004" x="152" y="1151" width="152" height="359"/>
+	<SubTexture name="right0000" x="304" y="1151" width="239" height="327"/>
+	<SubTexture name="right0001" x="543" y="1151" width="239" height="327"/>
+	<SubTexture name="right0002" x="782" y="1151" width="239" height="327"/>
+	<SubTexture name="right0003" x="0" y="1510" width="239" height="327"/>
+</TextureAtlas>
