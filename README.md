@@ -9,7 +9,7 @@ IF YOU MAKE A MOD AND DISTRIBUTE A MODIFIED / RECOMPILED VERSION, YOU MUST OPEN 
 - [ninjamuffin99](https://twitter.com/ninja_muffin99) - Programmer
 - [PhantomArcade3K](https://twitter.com/phantomarcade3k) and [Evilsk8r](https://twitter.com/evilsk8r) - Original arter (remastered version)
 - [Kawaisprite](https://twitter.com/kawaisprite) - Musician
-- [Diente_deleche (me)](https://discord.gg/PtyptWJw) - Art, voices, story, more...
+- [Diente_deleche (me)](https://discord.gg/NtHKuGMYZS) - Art, voices, story, more...
 
 This game was made with love to Newgrounds and its community. Extra love to Tom Fulp.
 
